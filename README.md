@@ -6,7 +6,7 @@
 
 ### Department of Electrical and Computer Engineering
  
-## ECE 2-1 Course Management
+### ECE 2-1 Course Management
 
 ---
 <b> Organized by: </b>
