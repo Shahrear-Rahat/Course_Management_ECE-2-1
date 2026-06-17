@@ -5,8 +5,7 @@
 <div align="center">
   
 ## Rajshahi University of Engineering and Technology
-<img width="343" height="400" alt="RUET_logo svg" src="https://github.com/user-attachments/assets/63245c58-d2dc-414e-a872-48207dc45a52" />
-
+<img src="https://github.com/user-attachments/assets/18531be8-2a84-4bea-9027-5f1c40549dfa" alt="RUET Logo" style="width:150px;height:170px;">
 </div>
 
 
