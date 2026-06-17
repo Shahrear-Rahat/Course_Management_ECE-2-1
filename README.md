@@ -6,9 +6,10 @@
 
 ### Department of Electrical and Computer Engineering
  
- <b> ECE 2-1 Course Management </b>
+## ECE 2-1 Course Management
 <br>
 
+<b> Organized by: </b>
 ### MD. SHEIKH SHAHREAR RAHAT
 #### Roll: 2410053
 #### Registration: 1106
