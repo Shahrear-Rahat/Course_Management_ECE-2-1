@@ -18,10 +18,10 @@
 </div>
 
 ---
-<div align="center">
+
 
 ## Courses lists:
-</div>
+
 
 | Course Code | Course Title | Credit | Course Directory |
 | :---------: | :----------: | :----: | :--------------: |
