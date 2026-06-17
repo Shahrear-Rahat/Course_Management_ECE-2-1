@@ -7,8 +7,8 @@
 ### Department of Electrical and Computer Engineering
  
 ## ECE 2-1 Course Management
-<br>
 
+---
 <b> Organized by: </b>
 ### MD. SHEIKH SHAHREAR RAHAT
 #### Roll: 2410053
@@ -17,7 +17,7 @@
 #### Rajshahi University of Engineering and Technology, Rajshahi.
 </div>
 
-
+---
 <div align="center">
 
 ## Courses lists:
