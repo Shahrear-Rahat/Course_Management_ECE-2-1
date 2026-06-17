@@ -7,12 +7,14 @@
 ### Department of Electrical and Computer Engineering
 </div>
 
-<p>
-<div align="center">
 
+<div align="center">
+<p>
+  
   ### MD. SHEIKH SHAHREAR RAHAT
   #### Roll: 2410053
 </p>
+</div>
 
 
   
