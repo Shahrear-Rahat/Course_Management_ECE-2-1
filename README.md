@@ -19,7 +19,8 @@
 
 ---
 
-
+<div align="center">
+ 
 ## Courses lists:
 
 
@@ -37,6 +38,7 @@
 | ECE 2100 | Software Development Project-I | 0.75 | [ECE 2100]() |
 |          |                                |      | Total: 19.50 |
 
+</div>
 ---
 
 
